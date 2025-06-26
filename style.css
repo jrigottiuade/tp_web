@@ -110,7 +110,8 @@ header img {
 }
 
 .showcase div {
-    background-color: #fa9f60;
+    background-color: none;
+    color: var(--light);
 }
 
 /* .showcase {
@@ -362,7 +363,7 @@ header img {
 
 /* Footer */
 .footer-container {
-    background-color: var(--dark);
+    background-color: var(--orange);
     color: var(--light);
     padding: 2rem 1rem;
     margin-top: 6rem;
